@@ -1,0 +1,15 @@
+// Token verification 
+{
+    "email": "keshavbhatt660@gmail.com",
+    "name": "keshav bhatt",
+    "rollNo": "2218963",
+    "accessCode": "QAhDUr",
+    "clientID": "97a13f5b-31c7-4b08-8758-6a52db6f563f",
+    "clientSecret": "KfdYvkqXdgMzpYcv"
+}
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJrZXNoYXZiaGF0dDY2MEBnbWFpbC5jb20iLCJleHAiOjE3NTI1NjA0MDAsImlhdCI6MTc1MjU1OTUwMCwiaXNzIjoiQWZmb3JkIE1lZGljYWwgVGVjaG5vbG9naWVzIFByaXZhdGUgTGltaXRlZCIsImp0aSI6IjVkOTg4ODkzLWE1YjQtNDJjMi05MmY3LThiMDUyZjEzMTZjNSIsImxvY2FsZSI6ImVuLUlOIiwibmFtZSI6Imtlc2hhdiBiaGF0dCIsInN1YiI6Ijk3YTEzZjViLTMxYzctNGIwOC04NzU4LTZhNTJkYjZmNTYzZiJ9LCJlbWFpbCI6Imtlc2hhdmJoYXR0NjYwQGdtYWlsLmNvbSIsIm5hbWUiOiJrZXNoYXYgYmhhdHQiLCJyb2xsTm8iOiIyMjE4OTYzIiwiYWNjZXNzQ29kZSI6IlFBaERVciIsImNsaWVudElEIjoiOTdhMTNmNWItMzFjNy00YjA4LTg3NTgtNmE1MmRiNmY1NjNmIiwiY2xpZW50U2VjcmV0IjoiS2ZkWXZrcVhkZ016cFljdiJ9.txD6TNZs937eIdTedkNF9hPj30LSJ3ylR0hE5II5_nY",
+    "expires_in": 1752560400
+}
